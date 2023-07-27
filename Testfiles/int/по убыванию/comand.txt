@@ -1,0 +1,1 @@
+java -jar mergeSort.jar -d -i out.txt int1.txt int2.txt int3.txt
